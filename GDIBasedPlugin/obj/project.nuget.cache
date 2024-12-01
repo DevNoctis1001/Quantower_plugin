@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "apcieW+y1+0=",
+  "success": true,
+  "projectFilePath": "E:\\MyData\\My\\UpworkJob\\Stephan Rieche, TxStrategies\\GIthub sample code\\Examples\\Plugins\\GDIBasedPlugin\\GDIBasedPlugin\\GDIBasedPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

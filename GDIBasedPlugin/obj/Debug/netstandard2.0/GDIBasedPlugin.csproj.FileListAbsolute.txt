@@ -1,0 +1,6 @@
+E:\MyData\My\UpworkJob\Stephan Rieche, TxStrategies\GIthub sample code\Examples\Plugins\GDIBasedPlugin\GDIBasedPlugin\obj\Debug\netstandard2.0\GDIBasedPlugin.csproj.AssemblyReference.cache
+E:\MyData\My\UpworkJob\Stephan Rieche, TxStrategies\GIthub sample code\Examples\Plugins\GDIBasedPlugin\GDIBasedPlugin\obj\Debug\netstandard2.0\GDIBasedPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyData\My\UpworkJob\Stephan Rieche, TxStrategies\GIthub sample code\Examples\Plugins\GDIBasedPlugin\GDIBasedPlugin\obj\Debug\netstandard2.0\GDIBasedPlugin.AssemblyInfoInputs.cache
+E:\MyData\My\UpworkJob\Stephan Rieche, TxStrategies\GIthub sample code\Examples\Plugins\GDIBasedPlugin\GDIBasedPlugin\obj\Debug\netstandard2.0\GDIBasedPlugin.AssemblyInfo.cs
+E:\MyData\My\UpworkJob\Stephan Rieche, TxStrategies\GIthub sample code\Examples\Plugins\GDIBasedPlugin\GDIBasedPlugin\obj\Debug\netstandard2.0\GDIBasedPlugin.csproj.CoreCompileInputs.cache
+E:\MyData\My\UpworkJob\Stephan Rieche, TxStrategies\GIthub sample code\Examples\Plugins\GDIBasedPlugin\GDIBasedPlugin\obj\Debug\netstandard2.0\GDIBasedPlugin.sourcelink.json
